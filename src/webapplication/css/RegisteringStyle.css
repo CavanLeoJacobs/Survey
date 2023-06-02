@@ -1,0 +1,12 @@
+#dateOfBirth,#password,#email,#age,#name,#surname,#phoneNumber,#gender{
+    font-size: 25px;
+}
+
+
+.checkbox{
+    size:20px;
+}
+.exit{
+    font-size: 40px;
+}
+

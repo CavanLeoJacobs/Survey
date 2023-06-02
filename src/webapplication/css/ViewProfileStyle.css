@@ -1,0 +1,20 @@
+
+
+.error
+{
+   text-align: center;
+ font-size: 70px;
+color: red;
+ text-shadow: 3px 3px 5px  gold  ,4px 4px 5px  yellow,5px 5px 5px orange  ,8px 8px 5px  red;
+font-style: italic;
+font-variant: small-caps;
+}
+a
+{
+font: italic small-caps bold 12px/30px Georgia, serif;
+
+    text-align: center;
+    font-size: 50px;
+     color: red;
+    text-shadow: 5px 5px 5px  gold  ,7px 7px 5px orange  ,10px 10px 5px  red;
+}

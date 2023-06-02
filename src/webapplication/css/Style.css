@@ -1,0 +1,137 @@
+header
+{
+    background-color:black;
+
+    width: 100%;
+    bottom: 100;
+    border: 5px solid red;
+   position: fixed;
+}
+
+body
+{
+   background-image: url("../image/background.jpg");
+ height: 100%;
+   width: 100%;
+}
+
+
+footer
+{
+
+  position: fixed;
+   left: 0;
+   bottom:0;
+   width: 100%;
+   color: white;
+   text-align: left;
+   background-color:black;
+
+   border: 5px solid red;
+
+}
+
+form
+{
+
+    text-align: center;
+    font-size: 35px;
+    }
+
+
+
+label{
+   text-align: center;
+ font-size: 35px;
+color: red;
+ text-shadow: 3px 3px 5px  gold  ,4px 4px 5px  yellow,5px 5px 5px orange  ,8px 8px 5px  red;
+font-style: italic;
+}
+h2,h3,h4,h5,h6
+{
+
+  font-size: 30px;
+ color: red;
+  text-shadow: 5px 5px 5px  gold  ,7px 7px 5px orange  ,10px 10px 5px  red;
+}
+
+p
+{
+    color: red;
+}
+
+href
+{
+    color:Tomato;
+}
+button
+{
+    border: 2px solid gold;
+    background-color:black;
+    color:white;
+}
+
+.navbar
+{
+
+     width: 100%;
+     background-color: #555;
+    overflow: auto;
+    background-color:black;
+}
+
+.navbar a
+{
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.navbar a:hover
+{
+    background-color: orange;
+}
+
+.active
+{
+
+   background-color:rgba(255, 0, 0, 0.4);
+
+
+}
+
+.active1
+{
+
+    background-color:rgba(255,0, 0, 0.6);
+
+
+}
+
+@media screen and (max-width: 500px)
+{
+    .navbar a
+    {
+        float: none; display: block;
+    }
+}
+
+
+
+#Submit,#Reset,button
+{
+
+
+font-size:40px;
+    border: 2px solid gold;
+    background-color:orange;
+    color:#770000;
+     text-shadow: 3px -3px 7px  #AB0000  ,4px -4px 10px  #E25822;
+font-style: italic;
+
+}
+
+
